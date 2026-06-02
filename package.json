@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "portfolio",
-=======
-  "name": "githubportfolio",
->>>>>>> 76ec3975cf70faecf1ae6567b77f65135e986b68
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,15 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@tailwindcss/vite": "^4.3.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "tailwindcss": "^4.3.0"
-=======
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6"
->>>>>>> 76ec3975cf70faecf1ae6567b77f65135e986b68
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
