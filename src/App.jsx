@@ -109,6 +109,7 @@ function App() {
                   Education
                 </p>
                 <p className="mt-2 text-white">B.S. Computer Science</p>
+                <p className="text-white">Japanese Language Minor</p>
                 <p className="text-slate-400">Elizabethtown College</p>
               </div>
               <div>
